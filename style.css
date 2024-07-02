@@ -1,4 +1,7 @@
-
+               
+            body {
+                font-family: 'Trebuchet MS', sans-serif;
+              }
         h3 
         {
             width: 1500px;
@@ -12,15 +15,4 @@
             font-size: 20px;
         }
 
-        @media screen and ( max-width:500px )
-        
-        {
-            body{
-                background-color: black;
-            text-align: right;
-            }
-            h3{ background-color:aqua ;
-               
-
-            }
             
